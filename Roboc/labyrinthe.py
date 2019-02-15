@@ -7,8 +7,7 @@ import os
 import pickle
 
 from robot import *
-#import robot
-from obstacles import *
+
 
 class Labyrinthe : 
 
