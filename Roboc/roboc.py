@@ -15,9 +15,6 @@ bool_continuer_partie = False
 
 
 
-#TODO : traiter le cas de quitter
-
-
 
 #Choix du fichier
 cartes=[] #liste de toutes les cartes
